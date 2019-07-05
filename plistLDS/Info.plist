@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>username</key>
+	<string>iptkrisna</string>
+	<key>password</key>
+	<string>ucil98</string>
 </dict>
 </plist>
